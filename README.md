@@ -1,4 +1,4 @@
-# Página inicial do Instagram
+# Página inicial do Instagram :camera:
 ---
 
 ## Descrição
