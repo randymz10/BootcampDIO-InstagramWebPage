@@ -15,4 +15,4 @@ Instragram homepage made in the project "Recreating the Instagram homepage" for 
 [@randymz10](https://github.com/randymz10)
 
 ---
-**Link repositorio original** https://github.com/SpruceGabriela/instagram-dio
+**Original repository link** https://github.com/SpruceGabriela/instagram-dio
