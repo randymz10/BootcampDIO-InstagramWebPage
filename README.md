@@ -1,9 +1,9 @@
-# Instagram home page :camera:
+# Instagram Home Page :camera:
 
 Instragram homepage made in the project "Recreating the Instagram homepage" for the HTML Web Developer bootcamp with specialist Gabriela Pinheiro
 
 ---
-## Technologies
+## Build in
 
 - HTML 5
 - CSS 3 
