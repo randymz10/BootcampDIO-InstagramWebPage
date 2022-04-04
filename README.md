@@ -1,16 +1,18 @@
-# Página inicial do Instagram :camera:
----
+# Instagram home page :camera:
 
-## Descrição
-
-Página inicial do Instragram feito no projeto "Recriando a página inicial do Instagram" para o bootcamp HTML Web Developer com a especialista Gabriela Pinheiro
+Instragram homepage made in the project "Recreating the Instagram homepage" for the HTML Web Developer bootcamp with specialist Gabriela Pinheiro
 
 ---
-## Tecnologias
+## Technologies
 
 - HTML 5
 - CSS 3 
 - Flexbox
+
+---
+
+## Author
+[@randymz10](https://github.com/randymz10)
 
 ---
 **Link repositorio original** https://github.com/SpruceGabriela/instagram-dio
